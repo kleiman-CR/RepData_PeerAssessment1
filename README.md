@@ -1,3 +1,10 @@
+# Changelog
+
+* The ziped activity file was extracted in the directory
+* The html document is included with all the required files
+
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
